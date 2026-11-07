@@ -77,20 +77,6 @@ Tested on:
 
 
 
----
-
-## ▶️ Usage
-
-```bash
-# Run LIO node
-ros2 launch tight_lio tight_lio.launch.py 
-```
-
-### Play dataset:
-
-```bash
-ros2 bag Dataset/MulRan_KAIST/kaist_ros2
-```
 
 ---
 
